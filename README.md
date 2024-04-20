@@ -16,4 +16,3 @@
 ## Recursos
 - [Apache Kafka — Aprendendo na prática](https://medium.com/trainingcenter/apache-kafka-codifica%C3%A7%C3%A3o-na-pratica-9c6a4142a08f)
 - [Kafka Docs Quickstart](https://kafka.apache.org/quickstart)
-# kafka_poc
